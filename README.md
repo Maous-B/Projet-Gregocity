@@ -1,6 +1,6 @@
 # Projet Gregocity (Infrastructure réseau) 🖥️
 
-<img src="https://raw.githubusercontent.com/Maous-B/Projet-Gregocity/master/gregocity.png" alt="Gregocity LOGO">
+<img src="https://raw.githubusercontent.com/Maous-B/Projet-Gregocity/refs/heads/main/gregocity.jpg" alt="Gregocity LOGO">
 
 **Client 🤵** : Mairie (de la ville Gregocity) possédant une cinquantaine de postes informatiques (Service **Etat-civil** : 10 PC, service **Voirie** : 5 PC, service **Administratif** : 28 PC, service **Informatique** : 10 PC).
 
