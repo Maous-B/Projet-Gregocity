@@ -1,4 +1,4 @@
-# Projet Gregocity (Infrastructure réseau)
+# Projet Gregocity (Infrastructure réseau) 🖥️
 
 **Client 🤵** : Mairie (de la ville Gregocity) possédant une cinquantaine de postes informatiques (Service **Etat-civil** : 10 PC, service **Voirie** : 5 PC, service **Administratif** : 28 PC, service **Informatique** : 10 PC).
 
